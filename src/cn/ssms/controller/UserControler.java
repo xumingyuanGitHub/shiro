@@ -110,5 +110,9 @@ public class UserControler {
             return "false";  
         }  
         return "true";  
-    }  
+    } 
+    
+    public static void main(String[] args) {
+		System.out.println("我是测试");
+	}
 }
